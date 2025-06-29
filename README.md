@@ -8,12 +8,6 @@
 - 🧠 I build smart, human-focused systems that actually make lives better.
 - 🎯 Always learning, always building, always questioning.
 
----
-
-### 🧰 Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,js,git,github,vscode" />
-</p>
 
 ---
 
