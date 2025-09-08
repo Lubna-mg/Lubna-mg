@@ -20,7 +20,7 @@
 
 ### 📫 Connect With Me
 - 💌 Email: [lubna.mg@hotmail.com](mailto:lubna.mg@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/lubna-al-ghamdi-16150b29b](https://www.linkedin.com/in/lubna-al-ghamdi-16150b29b)
+- 💼 LinkedIn: [linkedin.com/in/lubna-al-ghamdi-16150b29b](https://www.linkedin.com/in/lubna-alghamdi-cs/)
 - 🧠 GitHub: [github.com/Lubna-mg](https://github.com/Lubna-mg)
 
 ---
